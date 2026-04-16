@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer @ ResidentRP
+Developer @ DivinityRP
 
 
 # 💻 Tech Stack:
